@@ -18,6 +18,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 It was very challenging for me as i am just a beginner, it took me more time that it shouldve taken me to create these.
 
 ### Screenshot
+![desktop](https://user-images.githubusercontent.com/81943867/223490318-6c871993-878b-4719-b4f6-2d4be6332faf.jpg)
+
 
 ### Links
 
